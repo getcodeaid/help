@@ -21,7 +21,8 @@ codeurl: 'https://github.com/getcodeaid/codeaid'
 sections: [
     ['getting_started', 'Getting Started'],
     ['guide', 'Guide'],
-    ['rules', 'Rules']
+    ['rules', 'Rules'],
+    ['support', 'Support']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific
@@ -52,5 +53,4 @@ redcarpet:
         'with_toc_data',
         'tables',
         'hardwrap',
-        'footnote'
     ]
